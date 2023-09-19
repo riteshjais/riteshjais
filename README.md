@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/riteshjaiswal__" target="blank"><img src="https://img.shields.io/twitter/follow/riteshjaiswal__?logo=twitter&style=for-the-badge" alt="riteshjaiswal__" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Spring, Springboot, Maven, MySQL**
+- 🌱 I’m currently learning **Java, Spring, Springboot, Maven, MySQl**
 
 - 💬 Ask me about **Java, C++, MySQL, PostGres, Springboot**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/riteshjaiswal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riteshjaiswal__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riteshjais/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riteshjais/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/riteshjais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riteshjais" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/riteshjaizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riteshjaizz" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/riteshjaizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="riteshjaizz" height="30" width="40" /></a>
 </p>
